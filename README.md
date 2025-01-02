@@ -1,2 +1,2 @@
 # Multiprocessing_Systems
-Master Year - Multiprocessing sistems, homeworks
+Master Year - Multiprocessing systems
